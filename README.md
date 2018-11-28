@@ -1,4 +1,4 @@
-# Science Project
+# Research Project
 A project about my research.
 First use of it
 ## usage
