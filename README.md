@@ -4,3 +4,4 @@ First use of it
 ## usage
 
 ## notes
+Going from Github.com to git
